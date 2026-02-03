@@ -34,7 +34,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := vince
-PRODUCT_NAME := omni_vince
+PRODUCT_NAME := twrp_vince
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := Redmi 5 Plus
 PRODUCT_MANUFACTURER := xiaomi
